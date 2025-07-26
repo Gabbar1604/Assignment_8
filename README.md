@@ -17,7 +17,8 @@ Expense App is Flutter personal finance app with Firebase backend. Features secu
 ![WhatsApp Image 2025-07-26 at 18 04 06_11ba849b](https://github.com/user-attachments/assets/94d0ec39-e66c-49f0-a2e6-a0a48210a33f)
 ![WhatsApp Image 2025-07-26 at 18 04 06_955672aa](https://github.com/user-attachments/assets/d42e9803-67ca-49a7-b9c5-d50efe6fb974)
 ![WhatsApp Image 2025-07-26 at 18 04 07_01a75f8f](https://github.com/user-attachments/assets/8dd5e3ec-2493-40c6-83a8-bd8e06a49581)
-![WhatsApp Image 2025-07-26 at 18 04 07_385b976e](https://github.com/user-attachments/assets/93603709-6c5a-4136-8ccf-143ccedd751a)
+![WhatsApp Image 2025-07-26 at 18 04 07_385b976e](https://github.com/user-attachments/assets/c6935df2-97ac-489c-81df-50336132bdcd)
+
 ![WhatsApp Image 2025-07-26 at 18 04 07_5856cd21](https://github.com/user-attachments/assets/c9fa5a83-1a3b-4001-9ca3-aed2ce548b28)
 ![WhatsApp Image 2025-07-26 at 18 04 08_ca4c6c4d](https://github.com/user-attachments/assets/5132f629-1bce-4d12-a10b-7d0e21bb22d2)
 ![WhatsApp Image 2025-07-26 at 18 04 09_8e89e306](https://github.com/user-attachments/assets/7f866677-7322-41bd-bd8b-0c159fce412c)
