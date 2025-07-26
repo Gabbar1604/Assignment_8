@@ -1,5 +1,7 @@
 # Assignment_8
 Expense App is Flutter personal finance app with Firebase backend. Features secure email verification, real-time expense tracking, categorized transactions, and interactive analytics. Built with Flutter 3.x, Firebase Auth/Firestore, Riverpod state management, and Material 3 design. Includes cross-device sync, user data isolation, &amp; responsive UI. 
+![WhatsApp Image 2025-07-27 at 00 42 15_dcadb0d3](https://github.com/user-attachments/assets/e27d7c2d-9097-4709-9c51-6f1ecb5411cd)
+
 ![WhatsApp Image 2025-07-26 at 18 03 59_80f0690d](https://github.com/user-attachments/assets/131060c3-3828-4b43-adfb-909fbac326cf)
 ![WhatsApp Image 2025-07-26 at 18 04 00_01fa63d7](https://github.com/user-attachments/assets/16d1bae6-618e-4c61-bd20-7eac0b021366)
 ![WhatsApp Image 2025-07-26 at 18 04 00_f8c7b4cb](https://github.com/user-attachments/assets/1e70eb8f-04f5-4283-a454-8e3b8110d89a)
